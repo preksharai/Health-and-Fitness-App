@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/tv_item"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="20dp"
+    android:layout_height="20dp"
+    android:layout_margin="1dp"
+    android:gravity="center"
+    android:textColor="#222222"
+    android:textSize="15sp"
+    android:textStyle="bold"
+    android:background="@drawable/single_item_background"
+    android:text="1">
+
+</TextView>
